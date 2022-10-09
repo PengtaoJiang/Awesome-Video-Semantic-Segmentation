@@ -10,3 +10,8 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Video Semantic Segmentation via Sparse Temporal Transformer | ACM MM | Video | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475409) | [CODE]() |
+
+## 2020
+| Title | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+| Efficient Semantic Video Segmentation with Per-frame Inference | ECCV | Video | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550358.pdf) | [CODE]() |
