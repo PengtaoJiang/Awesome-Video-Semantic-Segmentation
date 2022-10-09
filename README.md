@@ -10,7 +10,7 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Video Semantic Segmentation via Sparse Temporal Transformer | ACM MM | Video | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475409) | [CODE]() |
-
+| VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild | CVPR | Video | [PDF](https://yu-wu.net/pdf/CVPR21-vspw.pdf) | [CPDE](https://www.vspwdataset.com/) |
 ## 2020
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
