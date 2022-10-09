@@ -5,3 +5,8 @@
 | :-----|:-----:|:---:|:---:|:----:|
 | Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation | ECCV | Video | [PDF](https://yun-liu.github.io/papers/(ECCV'2022)Mining%20Relations%20among%20Cross-Frame%20Affinities%20for%20Video%20Semantic%20Segmentation.pdf) | [CODE](https://github.com/GuoleiSun/VSS-MRCFA) |
 | Coarse-to-Fine Feature Mining for Video Semantic Segmentation | CVPR | Video | [PDF](https://yun-liu.github.io/papers/(CVPR'2022)Coarse-to-Fine%20Feature%20Mining%20for%20Video%20Semantic%20Segmentation.pdf) | [CODE](https://github.com/GuoleiSun/VSS-CFFM) |
+
+## 2021
+| Title | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+| Video Semantic Segmentation via Sparse Temporal Transformer | ACM MM | Video | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475409) | [CODE]() |
